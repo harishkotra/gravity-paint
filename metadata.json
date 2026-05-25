@@ -1,0 +1,6 @@
+{
+  "name": "Gravity Paint",
+  "description": "A physics painting and puzzle game where you draw gravity-bound chains to guide falling marbles into a bucket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
