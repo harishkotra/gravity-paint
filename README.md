@@ -4,6 +4,10 @@
 
 The game combines organic visual aesthetic elements with satisfying fluid/marble-dynamics. Players draw cables (chains) on the screen to physically guide flows of heavy, light, or normal-weight marbles into a collection cup. 
 
+<img width="1629" height="1107" alt="Screenshot at May 25 23-30-29" src="https://github.com/user-attachments/assets/4633fdfc-24bb-4c96-b864-140286d19dcf" />
+<img width="1660" height="1104" alt="Screenshot at May 25 23-30-37" src="https://github.com/user-attachments/assets/f992555f-2f57-419b-b1f4-ff1cf786d300" />
+<img width="1666" height="1106" alt="Screenshot at May 25 23-30-48" src="https://github.com/user-attachments/assets/707c343f-62ba-485f-b720-57695fe08538" />
+
 ---
 
 ## Game & Design Philosophy
@@ -137,7 +141,7 @@ Ensure you have **Node.js** (v18+) and **npm** installed on your workstation.
 ### 2. Installation
 ```bash
 # Clone the repository (or create a local fork)
-git clone <your-repository-url>
+git clone https://github.com/harishkotra/gravity-paint
 cd gravity-paint
 
 # Install all workspace and packages dependencies
